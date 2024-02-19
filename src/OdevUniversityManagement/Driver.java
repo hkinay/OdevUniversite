@@ -1,6 +1,8 @@
+package OdevUniversityManagement;
+
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+public class Driver {
     public static void main(String[] args) {
 
         AdministrativeStaff b = new AdministrativeStaff("Ahmet","01","Eğitim");

@@ -1,3 +1,5 @@
+package OdevUniversityManagement;
+
 class Professor extends Faculty {
     protected String titre;
     public Professor(String isim, String id, String department, String titre) {

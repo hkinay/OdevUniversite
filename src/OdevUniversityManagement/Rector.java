@@ -1,3 +1,5 @@
+package OdevUniversityManagement;
+
 class Rector extends AdministrativeStaff {
     protected String university;
 

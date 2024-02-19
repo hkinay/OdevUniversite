@@ -1,3 +1,5 @@
+package OdevUniversityManagement;
+
 abstract class Personel {
     protected String isim;
     protected String id;

@@ -1,3 +1,5 @@
+package OdevUniversityManagement;
+
 class Faculty extends Personel {
     protected String department;
 
