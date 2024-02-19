@@ -5,4 +5,6 @@ class AdministrativeStaff extends Personel {
         this.section = section;
 
     }
+
+
 }

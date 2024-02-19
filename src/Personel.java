@@ -6,4 +6,9 @@ abstract class Personel {
         this.isim = isim;
         this.id = id;
     }
+
+    int maasAlma(int salary){
+        int toplam = salary * 2;
+        return toplam;
+    }
 }
